@@ -1,13 +1,11 @@
-# Sonarr
+# Gadarr
 
-Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.
+Gadarr is a PVR for Usenet and BitTorrent users. It can be set to watch for when cracked games get released. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.
 
 ## Major Features Include:
 
-* Support for major platforms: Windows, Linux, macOS, Raspberry Pi, etc.
+* Support for differant game systems PS4, XBOX 360, Nintendo Switch, 3DS, and more
 * Automatically detects new episodes
-* Can scan your existing library and download any missing episodes
-* Can watch for better quality of the episodes you already have and do an automatic upgrade. *eg. from DVD to Blu-Ray*
 * Automatic failed download handling will try another release if one fails
 * Manual search so you can pick any release or to see why a release was not downloaded automatically
 * Fully configurable episode renaming
