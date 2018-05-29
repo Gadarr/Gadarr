@@ -1,5 +1,5 @@
 var Backbone = require('backbone');
-var QualityDefinitionModel = require('./QualityDefinitionModel');
+var GameSystemModel = require('./GameSystemnModel');
 
 module.exports = Backbone.Collection.extend({
     model : QualityDefinitionModel,
