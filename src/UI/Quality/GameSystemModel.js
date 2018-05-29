@@ -6,8 +6,8 @@ module.exports = ModelBase.extend({
     initialize : function() {
         var name = this.get('quality').name;
 
-        this.successMessage = 'Saved ' + name + ' quality settings';
-        this.errorMessage = 'Couldn\'t save ' + name + ' quality settings';
+        this.successMessage = 'Saved ' + name + ' system settings';
+        this.errorMessage = 'Couldn\'t save ' + name + ' system settings';
 
         this.baseInitialize.call(this);
     }
