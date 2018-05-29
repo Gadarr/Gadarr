@@ -40,5 +40,5 @@ Gadarr is a PVR for Usenet and BitTorrent users. It can be set to watch for when
 ### License
 
 * [GNU GPL v3](http://www.gnu.org/licenses/gpl.html)
-* Copyright 2010-2017
+* Copyright 2010-2018
 
